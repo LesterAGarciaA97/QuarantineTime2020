@@ -7,3 +7,5 @@ Contains a .java file with the basic "Hello Wordl!" script.
 Contains a .m file with the basic "Hello Wordl!" script.
 ### Python
 Contains a .py file with the basic "Hello Wordl!" script.
+### R
+Contains a .r file with the basic "Hello Wordl!" script.
