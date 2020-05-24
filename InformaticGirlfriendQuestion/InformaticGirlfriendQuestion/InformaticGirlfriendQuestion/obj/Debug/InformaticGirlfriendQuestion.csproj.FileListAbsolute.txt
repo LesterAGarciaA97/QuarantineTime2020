@@ -1,0 +1,10 @@
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\bin\Debug\InformaticGirlfriendQuestion.exe.config
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\bin\Debug\InformaticGirlfriendQuestion.exe
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\bin\Debug\InformaticGirlfriendQuestion.pdb
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.csprojAssemblyReference.cache
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.Form1.resources
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.Properties.Resources.resources
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.csproj.GenerateResource.cache
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.csproj.CoreCompileInputs.cache
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.exe
+C:\Users\leste\Desktop\InformaticGirlfriendQuestion\InformaticGirlfriendQuestion\obj\Debug\InformaticGirlfriendQuestion.pdb
