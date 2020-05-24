@@ -9,3 +9,5 @@ Contains a .m file with the basic "Hello Wordl!" script.
 Contains a .py file with the basic "Hello Wordl!" script.
 ### R
 Contains a .r file with the basic "Hello Wordl!" script.
+### Ruby
+Contains a .rb file with the basic "Hello Wordl!" script.
