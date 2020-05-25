@@ -1,4 +1,6 @@
 # Hello World around programming languages
+### Bash
+Contains a .sh file with the basic "Hello Wordl!" script.
 ### CSharp
 Contains a .CS file with the basic "Hello World!" script.
 ### Java
