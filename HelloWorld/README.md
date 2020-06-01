@@ -15,3 +15,5 @@ Contains a .py file with the basic "Hello Wordl!" script.
 Contains a .r file with the basic "Hello Wordl!" script.
 ### Ruby
 Contains a .rb file with the basic "Hello Wordl!" script.
+### Swift
+Contains a .swift file with the basic "Hello Wordl!" script.
