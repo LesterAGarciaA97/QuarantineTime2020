@@ -1,2 +1,2 @@
 // Hello World from JavaScript
-document.write('Hola Mundo!');
+document.write('Hello World from JavaScript!');
