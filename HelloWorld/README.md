@@ -19,6 +19,8 @@ Contains a .java file with the basic "Hello Wordl!" script.
 Contains a .jsx file with the basic "Hello Wordl!" script.
 ### Objective-C
 Contains a .m file with the basic "Hello Wordl!" script.
+### Perl 5
+Contains a .pl file with the basic "Hello Wordl!" script.
 ### PHP
 Contains a .php file with the basic "Hello Wordl!" script.
 ### Python
