@@ -5,6 +5,8 @@ Contains a .asm file with the basic "Hello Wordl!" script.
 Contains a .sh file with the basic "Hello Wordl!" script.
 ### C
 Contains a .c file with the basic "Hello World!" script.
+### CPlusPlus
+Contains a .cpp file with the basic "Hello World!" script.
 ### CSharp
 Contains a .CS file with the basic "Hello World!" script.
 ### FSharp
