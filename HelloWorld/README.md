@@ -31,3 +31,5 @@ Contains a .r file with the basic "Hello Wordl!" script.
 Contains a .rb file with the basic "Hello Wordl!" script.
 ### Swift
 Contains a .swift file with the basic "Hello Wordl!" script.
+### Visual Basic .NET
+Contains a .vb file with the basic "Hello Wordl!" script.
