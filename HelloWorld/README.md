@@ -1,4 +1,6 @@
 # Hello World around programming languages
+### Assembler
+Contains a .asm file with the basic "Hello Wordl!" script.
 ### Bash
 Contains a .sh file with the basic "Hello Wordl!" script.
 ### CSharp
