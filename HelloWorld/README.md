@@ -11,6 +11,8 @@ Contains a .cpp file with the basic "Hello World!" script.
 Contains a .CS file with the basic "Hello World!" script.
 ### FSharp
 Contains a .fs file with the basic "Hello World!" script.
+### Go
+Contains a .go file with the basic "Hello World!" script.
 ### HMTL
 Contains a .html file with the basic "Hello World!" script.
 ### Java
